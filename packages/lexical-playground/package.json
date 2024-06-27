@@ -1,7 +1,6 @@
 {
   "name": "lexical-playground",
   "version": "0.16.0",
-  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite --host --port 3000",
